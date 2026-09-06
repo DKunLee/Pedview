@@ -1,0 +1,27 @@
+# Bytecode & build
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Quality & IDE
+.ruff_cache/
+.DS_Store
+.vscode/
+.idea/
+
+# Generated reports
+*.html
+
+# Data protection (no pedigree or genomic data in public repo)
+*.ped
+*.fam
+*.vcf*
+*.bam
+*.cram
+*.tsv
+*.csv
