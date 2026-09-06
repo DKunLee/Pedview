@@ -1,8 +1,8 @@
 # pedview
 
-[![PyPI version](https://img.shields.io/pypi/v/pedview.svg)](https://pypi.org/project/pedview/)
-[![Python versions](https://img.shields.io/pypi/pyversions/pedview.svg)](https://pypi.org/project/pedview/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/pedview)](https://pypi.org/project/pedview/)
+[![Python versions](https://img.shields.io/pypi/pyversions/pedview)](https://pypi.org/project/pedview/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
 A lightweight command-line tool for visualizing family pedigrees in genetics and clinical research workflows.
 
